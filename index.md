@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/isabelleook/isabelleook.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is my first GitHub Page so I am still figuring it out.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
