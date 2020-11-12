@@ -11,4 +11,5 @@ I am studying Graphic Design at UMass Amherst. Attached is some work that I have
  ![Painted Street Sign](/IMG_8231.JPG)
 * Painted Street Sign
   * Acrylic
-  ![Painted Street Sign]
+  ![Painted Street Sign](/IMG_8232.JPG)
+  
