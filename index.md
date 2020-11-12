@@ -9,7 +9,6 @@ I am studying Graphic Design at UMass Amherst. Attached is some work that I have
 * Painted Street Sign
   * Acrylic
  ![Painted Street Sign](/IMG_8231.JPG)
-* Rubber Cement :grin:
-[Michaels](https://www.michaels.com)
-![Michaels Image](/tiger%20.jpg)
-
+* Painted Street Sign
+  * Acrylic
+  ![Painted Street Sign]
