@@ -7,7 +7,7 @@ I am studying Graphic Design at UMass Amherst. Attached is some work that I have
   * Acrylic
 ![Self-Portrait Image](/IMG_8164.JPG)
 * Painted Street Sign
- * Acrylic
+  * Acrylic
  ![Painted Street Sign](/IMG_8231.JPG)
 * Rubber Cement :grin:
 [Michaels](https://www.michaels.com)
