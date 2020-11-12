@@ -1,4 +1,4 @@
-## Welcome to my GitHub Page
+## My online portfolio
 
 This is my first GitHub Page.
 
