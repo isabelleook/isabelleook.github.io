@@ -2,7 +2,7 @@
 
 This is my first GitHub Page so I am still figuring it out.
 
-I do not know if this is working but I am trying.
+I am studying Graphic Design at UMass Amherst. Attached is some work that I have done during my first year semester.
 * Paint
   * Purple
 * Rubber Cement :grin:
